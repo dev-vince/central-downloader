@@ -1,0 +1,7 @@
+dev.vince.maven.manager.artifact
+dev.vince.maven.manager.bean.artifact
+dev.vince.maven.manager.bean.cache
+dev.vince.maven.manager.bean.search
+dev.vince.maven.manager.cache
+dev.vince.maven.manager.exception
+dev.vince.maven.manager.util
